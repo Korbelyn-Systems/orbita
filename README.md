@@ -1,6 +1,6 @@
 # Orbita — AI Marketing Office
 
-**A product of [KORBELYN SYSTEMS](https://github.com/Dicapso)**
+**A product of [KORBELYN SYSTEMS](https://github.com/Korbelyn-Systems)**
 
 ![Next.js 16](https://img.shields.io/badge/Next.js%2016-3b3a36?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3b3a36?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude%20API-3b3a36?style=flat-square) ![Postgres / PGlite](https://img.shields.io/badge/Postgres%20%2F%20PGlite-3b3a36?style=flat-square) ![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-3b3a36?style=flat-square) ![HyperFrames](https://img.shields.io/badge/HyperFrames-3b3a36?style=flat-square)
 
