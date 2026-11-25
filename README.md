@@ -1,4 +1,6 @@
-# Agent Ofis — AI Marketing Office
+# Orbita — AI Marketing Office
+
+**A product of [KORBELYN SYSTEMS](https://github.com/Dicapso)**
 
 ![Next.js 16](https://img.shields.io/badge/Next.js%2016-3b3a36?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3b3a36?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude%20API-3b3a36?style=flat-square) ![Postgres / PGlite](https://img.shields.io/badge/Postgres%20%2F%20PGlite-3b3a36?style=flat-square) ![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-3b3a36?style=flat-square) ![HyperFrames](https://img.shields.io/badge/HyperFrames-3b3a36?style=flat-square)
 
@@ -34,6 +36,6 @@ flowchart LR
 ---
 
 > **Showcase repository.** This repo presents the project — what it does, how it is built and what it looks like.
-> The full source code is private. For a walkthrough or a code sample, get in touch.
+> The source code is proprietary to KORBELYN SYSTEMS and is not published. For a walkthrough or a code sample, get in touch.
 
-**Tural Zamanlı** · Data & Automation Developer · [Portfolio](https://dicapso.github.io) · [GitHub](https://github.com/Dicapso)
+**KORBELYN SYSTEMS** · Tural Zamanlı · [Portfolio](https://dicapso.github.io) · [GitHub](https://github.com/Dicapso)
